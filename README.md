@@ -40,7 +40,7 @@ These findings provide **valuable insights** for MaaS companies, multimodal tran
 Download the latest version from [NetLogo's official website](https://ccl.northwestern.edu/netlogo/).  
 
 ### 2️⃣ **Open the Model**  
-Launch **NetLogo** and open `SABM-MaaS.nlogo`.  
+Launch **NetLogo** and open `MaaS_Updated.nlogo`.  
 
 ### 3️⃣ **Run Simulations**  
 Adjust parameters and run experiments to explore different **MaaS adoption scenarios**.  
