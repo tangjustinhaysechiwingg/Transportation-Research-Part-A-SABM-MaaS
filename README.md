@@ -32,3 +32,36 @@ These findings provide **valuable insights** for MaaS companies, multimodal tran
 ---
 
 ## 📂 Repository Structure
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ **Install NetLogo**  
+Download the latest version from [NetLogo's official website](https://ccl.northwestern.edu/netlogo/).  
+
+### 2️⃣ **Open the Model**  
+Launch **NetLogo** and open `SABM-MaaS.nlogo`.  
+
+### 3️⃣ **Run Simulations**  
+Adjust parameters and run experiments to explore different **MaaS adoption scenarios**.  
+
+### 4️⃣ **Analyze Results**  
+Model outputs can be found in the `results/` folder for further analysis.  
+
+---
+
+## 📜 Citation  
+If you use this code in your research, please cite our paper:  
+
+> **Tang, J.H.C.G., et al. (2025).** *Exploring the potential adoption of Mobility-as-a-Service (MaaS) in Beijing: A spatial agent-based model*  
+> *Transportation Research Part A: Policy and Practice.* [DOI to be added]  
+
+---
+
+## 📧 Contact  
+For questions, collaborations, or further inquiries, please reach out to me:  
+✉️ [jhcwgtang@connect.ust.hk] | 🌐 [[(https://scholar.google.com/citations?user=SWWBtbwAAAAJ&hl=en)]  
+
+---
+
+⭐ **If you find this work useful, please consider starring this repository!** ⭐
