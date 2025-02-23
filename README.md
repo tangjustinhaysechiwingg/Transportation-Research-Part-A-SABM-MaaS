@@ -53,8 +53,7 @@ Model outputs can be found in the `results/` folder for further analysis.
 ## 📜 Citation  
 If you use this code in your research, please cite our paper:  
 
-> **Tang, J.H.C.G., et al. (2025).** *Exploring the potential adoption of Mobility-as-a-Service (MaaS) in Beijing: A spatial agent-based model*  
-> *Transportation Research Part A: Policy and Practice.* [DOI to be added]  
+> **Tang, J.H.C.G., Liu, J., Chen, A., Wang, B., Zhuge*, C, Yang X. (2025). Exploring the potential adoption of Mobility-as-a-Service (MaaS) in Beijing: A spatial agent-based model. Transportation Research Part A: Policy and Practice. Elsevier.*  
 
 ---
 
