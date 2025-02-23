@@ -60,7 +60,7 @@ If you use this code in your research, please cite our paper:
 
 ## 📧 Contact  
 For questions, collaborations, or further inquiries, please reach out to me:  
-✉️ [jhcwgtang@connect.ust.hk] | 🌐 [[(https://scholar.google.com/citations?user=SWWBtbwAAAAJ&hl=en)]  
+✉️ [jhcwgtang@connect.ust.hk] | 🌐 [[https://scholar.google.com/citations?user=SWWBtbwAAAAJ&hl=en]  
 
 ---
 
