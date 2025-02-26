@@ -1,5 +1,5 @@
 # Exploring the potential adoption of Mobility-as-a-Service (MaaS) in Beijing: A spatial agent-based model
-This repository contains the NetLogo code for the Spatial Agent-Based Model (SABM) developed for the study titled "**_Exploring the potential adoption of Mobility-as-a-Service (MaaS) in Beijing: A spatial agent-based model_**", which has been submitted to **_[Transportation Research Part A: Policy and Practice](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)_**, Elsevier, in December 2022. This paper is accepted accepted for publication in Transportation Research Part A and published in April 2025.  
+This repository contains the NetLogo code for the Spatial Agent-Based Model (SABM) developed for the study titled "**_Exploring the potential adoption of Mobility-as-a-Service (MaaS) in Beijing: A spatial agent-based model_**", which has been submitted to **_[Transportation Research Part A: Policy and Practice](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)_**, Elsevier, in December 2022. This paper is accepted for publication in Transportation Research Part A and published in April 2025.  
 
 ---
 
