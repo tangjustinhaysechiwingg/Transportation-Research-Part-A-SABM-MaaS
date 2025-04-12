@@ -53,7 +53,7 @@ Model outputs can be found in the `results/` folder for further analysis.
 ## 📜 Citation  
 If you use this code in your research, please cite our paper:  
 
-> **Tang, J.H.C.G., Liu, J., Chen, A., Wang, B., Zhuge*, C, Yang, X. (2025). Exploring the potential adoption of Mobility-as-a-Service in Beijing: A spatial agent-based model. Transportation Research Part A: Policy and Practice. Elsevier.*  
+> **Tang, J. H. C. G., Liu, J., Chen, A., Wang, B., Zhuge, C., & Yang, X. (2025). Exploring the potential adoption of Mobility-as-a-Service in Beijing: A spatial agent-based model. Transportation Research Part A: Policy and Practice, 194, 104430.*  
 
 ---
 
