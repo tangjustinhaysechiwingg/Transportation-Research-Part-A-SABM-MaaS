@@ -50,6 +50,11 @@ Model outputs can be found in the `results/` folder for further analysis.
 
 ---
 
+## 📂 Data availability
+The data that has been used is confidential.
+
+---
+
 ## 📜 Citation  
 If you use this code in your research, please cite our paper:  
 
